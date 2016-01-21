@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = "SantiIgualABradPitt"
-  s.version          = "0.1.0"
-  s.summary          = "A short description of SantiIgualABradPitt."
+  s.version          = "1.0.0"
+  s.summary          = "Libraria de prueba para Santi Brad"
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,16 +17,19 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
+                      bla bla bla Libraria de prueba para Santi Brad Libraria de prueba para Santi Brad
+                      Libraria de prueba para Santi Brad Libraria de prueba para Santi Brad
+                      Libraria de prueba para Santi Brad Libraria de prueba para Santi Brad 
                        DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/SantiIgualABradPitt"
+  s.homepage         = "https://github.com/etercrack/SantiIgualABradPitt.git"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Santiago Gutierrez" => "santiago.gutierrez@etermax.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/SantiIgualABradPitt.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/etercrack/SantiIgualABradPitt.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.platform     = :ios, '7.0'
+  s.platform     = :ios, '7.1'
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/**/*'

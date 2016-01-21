@@ -12,5 +12,7 @@
 - (void)deQueCuadroSos {
     NSLog(@"Soy de River y los demas son todos putos");
 }
-
+- (void)probandoVersionNueva {
+    NSLog(@"Probando version nueva");
+}
 @end

@@ -9,5 +9,6 @@
 #import <Foundation/Foundation.h>
 
 @interface SBSoyDeRiver : NSObject
-
+- (void)deQueCuadroSos;
+- (void)probandoVersionNueva;
 @end
