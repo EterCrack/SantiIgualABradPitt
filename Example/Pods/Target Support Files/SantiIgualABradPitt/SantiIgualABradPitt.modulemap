@@ -1,0 +1,6 @@
+framework module SantiIgualABradPitt {
+  umbrella header "SantiIgualABradPitt-umbrella.h"
+
+  export *
+  module * { export * }
+}
